@@ -1,0 +1,10 @@
+0 Hello
+1 I Love You
+2 No
+3 Go
+4 Yes
+5 Like
+6 Promise
+7 All The Best
+8 Peace
+9 Wrong
